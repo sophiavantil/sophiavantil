@@ -1,4 +1,4 @@
-## Olá, me chamo Sophia Vantil.
+## Olá, me chamo Sophia.
 
 - HTML, CSS e JavaScript
 
