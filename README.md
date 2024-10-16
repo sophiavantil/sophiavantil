@@ -1,6 +1,6 @@
 ## Olá, me chamo Sophia Vantil.
 
-- Estudante de Engenharia de Software
+- Estudante
 - Estudando HTML, CSS e JavaScript
 
 <div style="display: inline_block"><br>
