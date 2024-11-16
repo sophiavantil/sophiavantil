@@ -1,6 +1,7 @@
 ## Olá, me chamo Sophia.
 
-- Estudando e buscando conhecimento sempre
+- Estudante
+- Conhecimento breve em HTML e CSS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sophia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
