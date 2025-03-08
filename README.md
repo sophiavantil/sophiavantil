@@ -1,11 +1,26 @@
-## Olá, me chamo Sophia.
+<h2 align="center"> Olá, me chamo Sophia Vantil e sou estudante de Engenharia de Software! </h2>
+<div align="center"> Seja Bem-vindo ao meu portfólio! </div>
+
+### Meu aprendizado:
+- EM CONSTRUÇÃO
 
 
 
+###
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sophiavantil&show_icons=true&theme=midnight-purple" height="150" alt="graphic stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiavantil&layout=compact&theme=midnight-purple" height="150" alt="graphic idiom" />
+</div>
 
-<img align="center" alt="sph-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img align="center" alt="sph-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img align="center" alt="sph-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="center" alt="sph-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-##
-<div> 
-  <a href = "mailto:sophiavantildc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sophiavantil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+###
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,windows,vscode&theme=dark)](https://skillicons.dev)
+</div>
+
+<div align="center">
+  
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophiavantil)
+[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophiavantildc@gmail.com)
 </div>
