@@ -1,8 +1,9 @@
 <h2 align="center"> Olá, me chamo Sophia Vantil e sou estudante de Engenharia de Software! </h2>
-<div align="center"> Seja Bem-vindo ao meu portfólio! </div>
+<div align="center"> Seja Bem-vindo! </div>
 
 ### Meu aprendizado:
-- EM CONSTRUÇÃO
+- Sistemas Operacionais: Windows e Linux.
+- Lógica de Programação: Comando de Entrada e Operadores, Operadores Lógicos e Relacionais, Condicionais, Repetições, Procedimentos, Funções, Vetores e Matrizes.
 
 
 
@@ -15,7 +16,7 @@
 ###
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,windows,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,windows,linux,aws,vscode&theme=dark)](https://skillicons.dev)
 </div>
 
 <div align="center">
