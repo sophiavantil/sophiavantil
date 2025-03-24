@@ -1,9 +1,12 @@
 <h2 align="center"> Olá, me chamo Sophia Vantil e sou estudante de Engenharia de Software! </h2>
 <div align="center"> Seja Bem-vindo! </div>
 
-### Meu aprendizado:
-- Sistemas Operacionais: Windows e Linux.
-- Lógica de Programação: Comando de Entrada e Operadores, Operadores Lógicos e Relacionais, Condicionais, Repetições, Procedimentos, Funções, Vetores e Matrizes.
+### Habilidades e Tecnologias
+- Lógica de Programação
+- Sistemas Operacionais: Windows, Linux
+- Linguagens: JavaScript, Python
+- Cloud: Serviços AWS
+- IDE: Visual Studio Code
 
 
 
