@@ -2,7 +2,6 @@
 <div align="center"> Seja Bem-vindo! </div>
 
 ### Habilidades e Tecnologias
-- Lógica de Programação
 - Sistemas Operacionais: Windows, Linux
 - Linguagens: JavaScript, Python
 - Cloud: Serviços AWS
