@@ -1,14 +1,6 @@
 <h2 align="center"> Olá, me chamo Sophia Vantil e sou estudante de Engenharia de Software! </h2>
 <div align="center"> Seja Bem-vindo! </div>
 
-### Habilidades e Tecnologias
-- Sistemas Operacionais: Windows, Linux
-- Linguagens: JavaScript, Python
-- Cloud: Serviços AWS
-- IDE: Visual Studio Code
-
-
-
 ###
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=sophiavantil&show_icons=true&theme=midnight-purple" height="150" alt="graphic stats" />
