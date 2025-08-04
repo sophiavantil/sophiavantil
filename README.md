@@ -18,7 +18,7 @@
 
 ### 🚀 Tecnologias e Ferramentas
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,windows,linux,aws,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,windows,linux,aws,gcp,vscode&theme=dark)](https://skillicons.dev)
 
   
 ### Conecte-se comigo
