@@ -5,7 +5,7 @@
 <div align="center"> 
 
 🎓 Estudante de **Engenharia de Software** \
-💻 Foco em **Cloud Computing** e **DevOps**
+💻 Foco em **Cloud Computing**
 
 ###
   
