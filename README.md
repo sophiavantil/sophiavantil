@@ -5,7 +5,6 @@
 <div align="center"> 
 
 🎓 Estudante de **Engenharia de Software** \
-💻 Foco em **Dados** e **Cloud Computing**
 
 ###
   
