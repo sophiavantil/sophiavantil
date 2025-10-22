@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-🎓 Estudante de **Engenharia de Software** \
+🎓 Estudante de **Engenharia de Software** 
 
 ###
   
