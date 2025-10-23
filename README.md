@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjbW41aTRxYTJyeG9nNHZmdm5ndzF2aHA0aWl0eXNkNTdxNnJrcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="250">
+</p>
+
 <div align="center"> 
 
 🎓 Estudante de **Engenharia de Software** \
