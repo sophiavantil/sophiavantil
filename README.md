@@ -2,11 +2,10 @@
 
 ###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjbW41aTRxYTJyeG9nNHZmdm5ndzF2aHA0aWl0eXNkNTdxNnJrcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="250">
-</p>
-
 <div align="center"> 
+  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="150" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="150" align="left">
 
 🎓 Estudante de **Engenharia de Software** \
 💻 Foco em Dados e Cloud Computing
@@ -45,6 +44,9 @@
 
 🏆 Participação no **Torneio Cloud Quest** - Women in Cloud (2025) \
 💻 Participação no **Hackathon** - Women In Cloud (2025)
+
+<img src="https://media.giphy.com/media/Jl3DyiDXmvOm5FgL9u/giphy.gif" width="150" align="right">
+<img src="https://media.giphy.com/media/Jl3DyiDXmvOm5FgL9u/giphy.gif" width="150" align="left">
   
 ### 🌐 Conecte-se comigo 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophiavantil)
