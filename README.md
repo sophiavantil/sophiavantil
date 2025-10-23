@@ -4,8 +4,8 @@
 
 <div align="center"> 
   
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="130" align="right">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="130" align="left">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="100" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdibTF5MXo0NDZ4dmU3bjc0dGxtbHUwdWlvNmw1c3ljcWJ2ZHU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="100" align="left">
 
 🎓 Estudante de **Engenharia de Software** \
 💻 Foco em Dados e Cloud Computing
